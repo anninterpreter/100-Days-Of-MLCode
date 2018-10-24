@@ -16,3 +16,6 @@
 
 ## Day6: Oct 23,2018
 **Today's Work** : Completed Week 1 and started Week 2 In 'Machine Learning With Python' By IBM on Coursera, learned about Simple Linear Regression, Model Evaluation In Linear Regression and Evaluation Metrics in Linear Regression. Implemented Simple Linear Regression on predicting the CO2 Emission of Cars using Sci-kit learn and Visualized the Regression Fit Line.
+
+## Day7: Oct 24,2018
+**Today's Work** : Completed Week 2 In 'Machine Learning With Python' By IBM on Coursera, learned about Multiple Linear Regression, Polynomial Linear Regression and Non-Linear Regression. Implemented Multiple, Polynomial and Non-Linear Regression, used the Sigmoid/Logistic model to fit the data and found the Optimized Parameter using Scipy's Optimization Library (Curve_Fit for non-linear).  

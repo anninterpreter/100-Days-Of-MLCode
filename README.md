@@ -22,3 +22,6 @@
 
 ## Day8: Oct 25,2018
 **Today's Work** : Week 3 In 'Machine Learning With Python' By IBM on Coursera, learned about Classification, types of Classification, got to know about different Models used for Classfication. Learned about K-Nearest Neighbor Model for Classification, implemented Multiclass Classification Problem for a Telecommunication company using KNN. Ran the model for different values of 'K' and picked the Optimal one on the basisc of Accuracy Score (Sort Of Jaccard Index Score) for each 'K', computed the Standard Deviation for each Accuracy Score. Plotted the result Accuracy Score values with respect to Standard Deviation for each Score.
+
+## Day9: Oct 26,2018
+**Today's Work** : Week 3 In 'Machine Learning With Python' By IBM on Coursera. Learned about Decision Tree Model in Classification and Implemented it on Binary Classification problem for Drug Recommendation.

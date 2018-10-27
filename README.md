@@ -25,3 +25,6 @@
 
 ## Day9: Oct 26,2018
 **Today's Work** : Week 3 In 'Machine Learning With Python' By IBM on Coursera. Learned about Decision Tree Model in Classification and Implemented it on Binary Classification problem for Drug Recommendation.
+
+## Day10: Oct 27,2018
+**Today's Work** : Week 3 In 'Machine Learning With Python' By IBM on Coursera. Learned about Logistic Regression for Classification. Learned about Metrics used for Evaluation of the model like Confusion-Matrix, Log-Loss, Jaccard-Similarity-Score etc. Learned about the parameter 'C' and 'Solver' worked with differnet values for 'C' and 'Solver'. Implemented Logistic Regression on a hypothetical Communication Company named Churn by using the scikit leaern LogisticRegression model for C=0.01 and solver='liblinear' whereas the model was efficient for parameters C=1 and solver='newton-cg' which produced logloss 0.60 and 0.25 respectively.

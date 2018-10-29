@@ -31,3 +31,6 @@
 
 ## Day11: Oct 28,2018
 **Today's Work** : Week 3 Completed In 'Machine Learning With Python' By IBM on Coursera. Learned about Support Vector Machine (SVM) model for Classification. Learned about what 'Kernel' is and impletemented SVM model for 2 different Kernels. This Classification model was impletementd on data about Patients being Benign or Malignant.
+
+## Day12: Oct 29,2018
+**Today's Work** : Week 4 In 'Machine Learning With Python' By IBM on Coursera. Intorduction to Clustering and different types of Clustering. Understanding about Clustering as Unsupervised Machine Learning technique. Leaned about K-Means Clustering Algorithm that falls in Partion Clustering type. Implemented K-Means Clustering model on random data and then for Customer Segmentation based on their Demographical Data. 

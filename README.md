@@ -34,3 +34,7 @@
 
 ## Day12: Oct 29,2018
 **Today's Work** : Week 4 In 'Machine Learning With Python' By IBM on Coursera. Intorduction to Clustering and different types of Clustering. Understanding about Clustering as Unsupervised Machine Learning technique. Leaned about K-Means Clustering Algorithm that falls in Partion Clustering type. Implemented K-Means Clustering model on random data and then for Customer Segmentation based on their Demographical Data. 
+
+## Day13: Oct 30,2018
+**Today's Work** : Week 4 Completed In 'Machine Learning With Python' By IBM on Coursera. Learned about Hierarchical Clustering and its pros and cons in over KMeans( Partition Clustering). Used scipy library for Dendogram visualization. Found out the Optimal number of Clusters by looking at the Dendogram. Implemented Heirarchical Clustering using scipy and scikit libraries. Learned about another Clustering technique Density Based Spatial Clustering of Applications With Noise (DBSCAN). Implemented DBSCAN for Clustering Weather Stations based on their Location, Mean, Min and Max temperature.
+

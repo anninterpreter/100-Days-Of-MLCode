@@ -38,3 +38,5 @@
 ## Day13: Oct 30,2018
 **Today's Work** : Week 4 Completed In 'Machine Learning With Python' By IBM on Coursera. Learned about Hierarchical Clustering and its pros and cons in over KMeans( Partition Clustering). Used scipy library for Dendogram visualization. Found out the Optimal number of Clusters by looking at the Dendogram. Implemented Heirarchical Clustering using scipy and scikit libraries. Learned about another Clustering technique Density Based Spatial Clustering of Applications With Noise (DBSCAN). Implemented DBSCAN for Clustering Weather Stations based on their Location, Mean, Min and Max temperature.
 
+## Day14: Oct 31,2018
+**Today's Work** : Week 5 Completed In 'Machine Learning With Python' By IBM on Coursera. Learned about Recommendation System. Worked on Content-based Recommender System for recommending Movies to the User based on his ratings given to the movies he has watched. Learned about Collaborative filtering. Used Pearson Coefficient for similarity measure of the Users from the target User, hands on lab for Collaborative Filtering.

@@ -40,3 +40,6 @@
 
 ## Day14: Oct 31,2018
 **Today's Work** : Week 5 Completed In 'Machine Learning With Python' By IBM on Coursera. Learned about Recommendation System. Worked on Content-based Recommender System for recommending Movies to the User based on his ratings given to the movies he has watched. Learned about Collaborative filtering. Used Pearson Coefficient for similarity measure of the Users from the target User, hands on lab for Collaborative Filtering.
+
+## Day15: Nov 01,2018
+**Today's Work** : Week 6 In 'Machine Learning With Python' By IBM on Coursera. Started Working on Final Project of the course i.e. Making a Best Classifier Model for Predicting if a Person can take Loan from a Bank or not. 

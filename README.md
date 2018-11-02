@@ -43,3 +43,6 @@
 
 ## Day15: Nov 01,2018
 **Today's Work** : Week 6 In 'Machine Learning With Python' By IBM on Coursera. Started Working on Final Project of the course i.e. Making a Best Classifier Model for Predicting if a Person can take Loan from a Bank or not. 
+
+## Day16: Nov 02,2018
+**Today's Work** : Week 6 Cont'd In 'Machine Learning With Python' By IBM on Coursera. Working on Final Project of the course i.e. Making a Best Classifier Model for Predicting if a Person can take Loan from the Bank or not.

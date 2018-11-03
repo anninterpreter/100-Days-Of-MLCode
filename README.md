@@ -46,3 +46,6 @@
 
 ## Day16: Nov 02,2018
 **Today's Work** : Week 6 Cont'd In 'Machine Learning With Python' By IBM on Coursera. Working on Final Project of the course i.e. Making a Best Classifier Model for Predicting if a Person can take Loan from the Bank or not.
+
+## Day17: Nov 03,2018
+**Today's Work** : Week 6 Completed In 'Machine Learning With Python' By IBM on Coursera. Final Project of the course (The Best Classifier) completed. Started exploring Deep Learning. Worked with Artificial Neural Network, learned about Feedforward and Back Propagation, learned about Batch Gradient Descent and Stochastic Gradient Descent, used Keras Library with Tensorflow backend to make an Aritificial Neural Network for Bank to find the Probability about Person leaving the Bank. Compared the ANN's accuracy with simple scikit learn's LogisticRegression model accuracy. ANN was more accurate than simple Machine Learning LogisticRegression model.

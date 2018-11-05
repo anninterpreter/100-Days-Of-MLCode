@@ -52,3 +52,7 @@
 
 ## Day18: Nov 04,2018
 **Today's Work** : Started working on Convolutional Neural Network, learned about each step involved in Convolutional Neural Network. Leaned about extracting features through Convolution, then by using Max Pooling technique to get Critical Details of the feature. Then, applied Flattening algorithm and made a Full-Connection. This CNN is used for predicting if the the Image is of a Cat or a Dog.
+
+
+## Day19: Nov 05,2018
+**Today's Work** : Convolutional Neural Network Completed, made a CNN for Image Classification for 2 Subjects (Cat and Dogs) with Accuracy of 89%.

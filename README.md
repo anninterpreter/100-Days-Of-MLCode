@@ -56,3 +56,6 @@
 
 ## Day19: Nov 05,2018
 **Today's Work** : Convolutional Neural Network Completed, made a CNN for Image Classification for 2 Subjects (Cat and Dogs) with Accuracy of 89%.
+
+## Day20: Nov 06,2018
+**Today's Work** : Introduction to Dimensionality Reduction. Worked with Principal Component Analysis for Dimensionality Reduction.

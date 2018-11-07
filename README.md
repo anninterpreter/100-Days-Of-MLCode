@@ -59,3 +59,7 @@
 
 ## Day20: Nov 06,2018
 **Today's Work** : Introduction to Dimensionality Reduction. Worked with Principal Component Analysis for Dimensionality Reduction.
+
+
+## Day21: Nov 07,2018
+**Today's Work** : Dimensionality Reduction - Worked with Linear Discriminant Analysis for Dimensionality Reduction.

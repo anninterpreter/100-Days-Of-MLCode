@@ -63,3 +63,7 @@
 
 ## Day21: Nov 07,2018
 **Today's Work** : Dimensionality Reduction - Worked with Linear Discriminant Analysis for Dimensionality Reduction.
+
+
+## Day22: Nov 08,2018
+**Today's Work** : Dimensionality Reduction - Worked with Kernel Principial Component Analysis (Kernel PCA) for Dimensionality Reduction.

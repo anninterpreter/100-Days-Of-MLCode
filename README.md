@@ -67,3 +67,7 @@
 
 ## Day22: Nov 08,2018
 **Today's Work** : Dimensionality Reduction - Worked with Kernel Principial Component Analysis (Kernel PCA) for Dimensionality Reduction.
+
+
+## Day23: Nov 09,2018
+**Today's Work** : Model Selection - Worked with K-Fold Cross Validation for Model Selection, also learned about finding the best Hyperparameters for Model using Grid Search. Learned about XGBoost.

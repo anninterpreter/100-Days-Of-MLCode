@@ -74,4 +74,4 @@
 
 
 ## Day24: Nov 10,2018
-**Today's Work** : Introduction to Natural Lanuage Processing (NLP) - Worked with NLP for a Restaurant. Made a Classification Model based on Reviews given to Restaurant by Customers to Predict if the Customer liked the Resutarant or Not.
+**Today's Work** : Introduction to Natural Language Processing (NLP) - Worked with NLP for a Restaurant. Made a Classification Model based on Reviews given to Restaurant by Customers to Predict if the Customer liked the Restaurant or Not.

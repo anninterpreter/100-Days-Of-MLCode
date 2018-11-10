@@ -71,3 +71,7 @@
 
 ## Day23: Nov 09,2018
 **Today's Work** : Model Selection - Worked with K-Fold Cross Validation for Model Selection, also learned about finding the best Hyperparameters for Model using Grid Search. Learned about XGBoost.
+
+
+## Day24: Nov 10,2018
+**Today's Work** : Introduction to Natural Lanuage Processing (NLP) - Worked with NLP for a Restaurant. Made a Classification Model based on Reviews given to Restaurant by Customers to Predict if the Customer liked the Resutarant or Not.

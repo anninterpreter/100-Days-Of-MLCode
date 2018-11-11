@@ -75,3 +75,7 @@
 
 ## Day24: Nov 10,2018
 **Today's Work** : Introduction to Natural Language Processing (NLP) - Worked with NLP for a Restaurant. Made a Classification Model based on Reviews given to Restaurant by Customers to Predict if the Customer liked the Restaurant or Not.
+
+
+## Day25: Nov 11,2018
+**Today's Work** : Started Working on Document Clustering. Learned about Term-Frequency over Inverse-Document-Frequency (TF-IDF).

@@ -79,3 +79,7 @@
 
 ## Day25: Nov 11,2018
 **Today's Work** : Started Working on Document Clustering. Learned about Term-Frequency over Inverse-Document-Frequency (TF-IDF).
+
+
+## Day26: Nov 12,2018
+**Today's Work** : Document Classification Cont'd.

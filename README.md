@@ -83,3 +83,11 @@
 
 ## Day26: Nov 12,2018
 **Today's Work** : Document Classification Cont'd.
+
+
+## Day27: Nov 13,2018
+**Today's Work** : Document Classification Cont'd.
+
+
+## Day28: Nov 14,2018
+**Today's Work** : Document Classification Cont'd.

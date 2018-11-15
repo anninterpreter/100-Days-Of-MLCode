@@ -91,3 +91,7 @@
 
 ## Day28: Nov 14,2018
 **Today's Work** : Document Classification Cont'd.
+
+
+## Day29: Nov 15,2018
+**Today's Work** : Document(Movies) Classification Cont'd.

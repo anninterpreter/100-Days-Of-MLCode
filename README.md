@@ -95,3 +95,11 @@
 
 ## Day29: Nov 15,2018
 **Today's Work** : Document(Movies) Classification Cont'd.
+
+
+## Day30: Nov 16,2018
+**Today's Work** : Document(Movies) Classification Cont'd. Used Cosine Similarity Matrix to measure Similarity between Top 100 Movies.
+
+
+## Day31: Nov 17,2018
+**Today's Work** : Document (Movies) Classification Completed. Used Cosine Similarity Matrix to measure Similarity between Top 100 Movies.

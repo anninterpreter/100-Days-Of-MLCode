@@ -103,3 +103,7 @@
 
 ## Day31: Nov 17,2018
 **Today's Work** : Document (Movies) Classification Completed. Used Cosine Similarity Matrix to measure Similarity between Top 100 Movies.
+
+
+## Day32: Nov 18,2018
+**Today's Work** : Started new Course 'Sequence Models for Time Series and Natural Language Processing' by Google Cloud (Course 4 of 5 in the Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization) on Coursera.

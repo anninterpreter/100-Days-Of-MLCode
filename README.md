@@ -111,3 +111,7 @@
 
 # Day33: Nov 19,2018
 **Today's Work** : Started 'Complete Guide to TensorFlow for Deep Learning with Python' Udemy course.
+
+
+# Day34: Nov 20,2018
+**Today's Work** : Introduction to Artificial Neural Network, making ANN from scratch.

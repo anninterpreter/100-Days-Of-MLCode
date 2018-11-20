@@ -109,9 +109,9 @@
 **Today's Work** : Started new Course 'Sequence Models for Time Series and Natural Language Processing' by Google Cloud (Course 4 of 5 in the Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization) on Coursera.
 
 
-# Day33: Nov 19,2018
+## Day33: Nov 19,2018
 **Today's Work** : Started 'Complete Guide to TensorFlow for Deep Learning with Python' Udemy course.
 
 
-# Day34: Nov 20,2018
+## Day34: Nov 20,2018
 **Today's Work** : Introduction to Artificial Neural Network, making ANN from scratch.

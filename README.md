@@ -115,3 +115,7 @@
 
 ## Day34: Nov 20,2018
 **Today's Work** : Introduction to Artificial Neural Network, making ANN from scratch.
+
+
+## Day35: Nov 21,2018
+**Today's Work** : Manual Creation of Aritificial Neural Network Cont'd in 'Complete Guide to TensorFlow for Deep Learning with Python'.

@@ -123,3 +123,7 @@
 
 ## Day36: Nov 22,2018
 **Today's Work** : Manual Creation of Aritificial Neural Network Completed.
+
+
+## Day37: Nov 23,2018
+**Today's Work** : Tensorflow Basics.

@@ -127,3 +127,7 @@
 
 ## Day37: Nov 23,2018
 **Today's Work** : Tensorflow Basics.
+
+
+## Day38: Nov 24,2018
+**Today's Work** : Made ANN for Linear Regression using TensorFlow.

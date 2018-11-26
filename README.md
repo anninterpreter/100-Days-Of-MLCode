@@ -135,3 +135,8 @@
 
 ## Day39: Nov 25,2018
 **Today's Work** : Made DNN for Classification problem using TensorFlow.
+
+
+
+## Day40: Nov 26,2018
+**Today's Work** : Deep Learning With TensorFlow Cont'd.

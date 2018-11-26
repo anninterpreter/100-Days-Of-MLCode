@@ -131,3 +131,7 @@
 
 ## Day38: Nov 24,2018
 **Today's Work** : Made ANN for Linear Regression using TensorFlow.
+
+
+## Day39: Nov 25,2018
+**Today's Work** : Made DNN for Classification problem using TensorFlow.

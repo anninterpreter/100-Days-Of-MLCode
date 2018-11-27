@@ -140,3 +140,7 @@
 
 ## Day40: Nov 26,2018
 **Today's Work** : Deep Learning With TensorFlow Cont'd.
+
+
+## Day41: Nov 27,2018
+**Today's Work** : Deep Learning With TensorFlow for MNIST Dataset.

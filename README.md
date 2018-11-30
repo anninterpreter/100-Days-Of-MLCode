@@ -144,3 +144,15 @@
 
 ## Day41: Nov 27,2018
 **Today's Work** : Deep Learning With TensorFlow for MNIST Dataset.
+
+
+## Day42: Nov 28,2018
+**Today's Work** : Convolutional Neural Network for MNIST Dataset (Handwritten Digit Recognition).
+
+
+## Day43: Nov 29,2018
+**Today's Work** : Convolutional Neural Network for MNIST Dataset (Handwritten Digit Recognition) Completed. Used Google Colab for training the Model. Model built with 99.39% Accuracy.
+
+
+## Day44: Nov 30,2018
+**Today's Work** : Introduction to Recurrent Neural Network.

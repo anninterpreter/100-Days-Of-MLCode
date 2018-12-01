@@ -156,3 +156,7 @@
 
 ## Day44: Nov 30,2018
 **Today's Work** : Introduction to Recurrent Neural Network.
+
+
+## Day45: Nov 01,2018
+**Today's Work** : Recurrent Neural Network with TensorFlow Cont'd.

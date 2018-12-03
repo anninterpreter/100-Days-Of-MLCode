@@ -164,3 +164,7 @@
 
 ## Day46: Nov 02,2018
 **Today's Work** : Manual Creation of Recurrent Neural Network with TensorFlow.
+
+
+## Day47: Nov 03,2018
+**Today's Work** : Recurrent Neural Network with TensorFlow Cont'd.

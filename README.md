@@ -168,3 +168,7 @@
 
 ## Day47: Nov 03,2018
 **Today's Work** : Recurrent Neural Network with TensorFlow Cont'd.
+
+
+## Day48: Nov 04,2018
+**Today's Work** : Recurrent Neural Network with TensorFlow for Sin(t). Also, learned about Word2Vec Model.

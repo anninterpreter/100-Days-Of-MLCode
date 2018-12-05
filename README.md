@@ -172,3 +172,8 @@
 
 ## Day48: Nov 04,2018
 **Today's Work** : Recurrent Neural Network with TensorFlow for Sin(t). Also, learned about Word2Vec Model.
+
+
+## Day49: Nov 05,2018
+**Today's Work** : Worked with Abstraction APIs for Tensorflow. Learned about Autoencoders and their use as Dimensionalty Reduction. Setup the environment for 'OpenAI Gym' for Reinforcement Learning.
+

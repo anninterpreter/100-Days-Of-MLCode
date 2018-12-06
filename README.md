@@ -177,3 +177,6 @@
 ## Day49: Nov 05,2018
 **Today's Work** : Worked with Abstraction APIs for Tensorflow. Learned about Autoencoders and their use as Dimensionalty Reduction. Setup the environment for 'OpenAI Gym' for Reinforcement Learning.
 
+
+## Day49: Nov 05,2018
+**Today's Work** : Bot for CartPole Game using OpenAI Gym with TensorFlow.

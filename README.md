@@ -158,25 +158,30 @@
 **Today's Work** : Introduction to Recurrent Neural Network.
 
 
-## Day45: Nov 01,2018
+## Day45: Dec 01,2018
 **Today's Work** : Recurrent Neural Network with TensorFlow Cont'd.
 
 
-## Day46: Nov 02,2018
+## Day46: Dec 02,2018
 **Today's Work** : Manual Creation of Recurrent Neural Network with TensorFlow.
 
 
-## Day47: Nov 03,2018
+## Day47: Dec 03,2018
 **Today's Work** : Recurrent Neural Network with TensorFlow Cont'd.
 
 
-## Day48: Nov 04,2018
+## Day48: Dec 04,2018
 **Today's Work** : Recurrent Neural Network with TensorFlow for Sin(t). Also, learned about Word2Vec Model.
 
 
-## Day49: Nov 05,2018
+## Day49: Dec 05,2018
 **Today's Work** : Worked with Abstraction APIs for Tensorflow. Learned about Autoencoders and their use as Dimensionalty Reduction. Setup the environment for 'OpenAI Gym' for Reinforcement Learning.
 
 
-## Day50: Nov 06,2018
+## Day50: Dec 06,2018
 **Today's Work** : Bot for CartPole Game using OpenAI Gym with TensorFlow.
+
+
+
+## Day51: Dec 07,2018
+**Today's Work** : Introduction to GANs ( Generative Adversarial Networks ).  

@@ -182,6 +182,13 @@
 **Today's Work** : Bot for CartPole Game using OpenAI Gym with TensorFlow.
 
 
-
 ## Day51: Dec 07,2018
 **Today's Work** : Introduction to GANs ( Generative Adversarial Networks ).  
+
+
+## Day52: Dec 08,2018
+**Today's Work** : GAN for MNIST (Handwritten Digit)  Dataset.
+
+
+## Day53: Dec 09,2018
+**Today's Work** : Implementation of GAN for MNIST (Handwritten Digit)  Dataset.

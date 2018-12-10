@@ -192,3 +192,7 @@
 
 ## Day53: Dec 09,2018
 **Today's Work** : Implementation of GAN for MNIST (Handwritten Digit)  Dataset.
+
+
+## Day54: Dec 10,2018
+**Today's Work** : Deep Learning and Computer Vision.

@@ -196,3 +196,16 @@
 
 ## Day54: Dec 10,2018
 **Today's Work** : Deep Learning and Computer Vision.
+
+
+
+## Day55: Dec 11,2018
+**Today's Work** : Face Detection Intuition.
+
+
+## Day56: Dec 12,2018
+**Today's Work** : Face Detection using OpenCV
+
+
+## Day57: Dec 13,2018
+**Today's Work** : Live Face Detection as well as Face Detection in Images using OpenCV.

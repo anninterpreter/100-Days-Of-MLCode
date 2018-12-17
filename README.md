@@ -209,3 +209,7 @@
 
 ## Day57: Dec 13,2018
 **Today's Work** : Live Face Detection as well as Face Detection in Images using OpenCV.
+
+
+## Day58-Day61: Dec 14,2018 - Dec 17,2018
+**Today's Work** : Object Detection using SSD (Single Shot Multibox Detection)

@@ -213,3 +213,7 @@
 
 ## Day58-Day61: Dec 14,2018 - Dec 17,2018
 **Today's Work** : Object Detection using SSD (Single Shot Multibox Detection)
+
+
+## Day62-Day64: Dec 18,2018 - Dec 20,2018
+**Today's Work** : Reading of Online Book 'Neural Network and Deep Learning'. Build a Text Summarizer Model by using Natural Language Processing approach.

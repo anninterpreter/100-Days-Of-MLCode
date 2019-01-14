@@ -217,3 +217,102 @@
 
 ## Day62-Day64: Dec 18,2018 - Dec 20,2018
 **Today's Work** : Reading of Online Book 'Neural Network and Deep Learning'. Build a Text Summarizer Model by using Natural Language Processing approach.
+
+
+## Day65: Dec 21,2018
+**Today's Work** : Reading - Neural Network And Deep Learning.
+
+## Day66: Dec 22,2018
+**Today's Work** : Reading - Neural Network And Deep Learning, Maths behind Backpropogation. 
+
+
+## Day67: Dec 23,2018
+**Today's Work** : 'Neurons That Fire Together, Wire Together.' | Backpropogation Calculus | 3Blue1Brown.
+
+
+## Day68: Dec 24,2018
+**Today's Work** : Reading | Neural Network And Deep Learning - Backpropogation. 
+
+
+## Day69: Dec 25,2018
+**Today's Work** : Regression Excercise with TensorFlow. 
+
+
+## Day70: Dec 26,2018
+**Today's Work** : Unsupervised Deep Embedding for Clustering Analysis (DEC). 
+
+
+## Day71: Dec 27,2018
+**Today's Work** : Unsupervised Deep Learning.
+
+
+## Day72: Dec 28,2018
+**Today's Work** : Basic understanding about Word2Vec Model.
+
+
+## Day73: Dec 29,2018
+**Today's Work** : Hands on Word2Vec Model training and testing. Explored Google's Pre-trained Word2Vec Model.
+
+
+## Day74: Dec 30,2018
+**Today's Work** : Cluster Analysis using DBSCAN.
+
+
+## Day75: Dec 31,2018
+**Today's Work** : Identifying Movies Genres and then Classifying them into their Genre using Cluster Analysis Technique DBSCAN.
+
+
+## Day76: Jan 01,2019
+**Today's Work** : Cluster Analysis using Word2Vec and Doc2Vec Model from Gensim. Started new course 'Applied AI with Deep Learning' on coursera.
+
+
+## Day77: Jan 02,2019
+**Today's Work** : Environment Setup for IoT. LSTMs understanding.
+
+
+## Day78: Jan 03,2019
+**Today's Work** : Re-evaluating Regression Task using Estimator API of TensorFlow.
+
+
+## Day79: Jan 04,2019
+**Today's Work** : Style Transfer Using VGG16 through Keras.
+
+
+## Day80: Jan 05,2019
+**Today's Work** : Visualizing Data In Higher Dimensions.
+
+
+## Day81: Jan 06,2019
+**Today's Work** : 'Titanic: Machine Learning from Disaster' on Kaggle
+
+
+## Day82: Jan 07,2019
+**Today's Work** : 'Titanic: Machine Learning from Disaster' on Kaggle Cont'd.
+
+
+## Day83: Jan 08,2019
+**Today's Work** : 'Titanic: Machine Learning from Disaster' on Kaggle Completed with 84% Model Accuracy.
+
+
+## Day84: Jan 09,2019
+**Today's Work** : 'House Prices: Advanced Regression Techniques' on Kaggle.
+
+
+## Day85: Jan 10,2019
+**Today's Work** : 'House Prices: Advanced Regression Techniques' on Kaggle Cont’d.
+
+
+## Day86: Jan 11,2019
+**Today's Work** : 'House Prices: Advanced Regression Techniques' on Kaggle Completed.
+
+
+## Day87: Jan 12,2019
+**Today's Work** : 'Facial Keypoints Detection' on Kaggle.
+
+
+## Day88: Jan 13,2019
+**Today's Work** : 'Facial Keypoints Detection' on Kaggle Cont’d.
+
+
+## Day89: Jan 14,2019
+**Today's Work** : Sentiment Analysis of Real Time Tweets Regarding Facebook.

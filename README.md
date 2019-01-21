@@ -322,25 +322,25 @@
 **Today's Work** : Image Captioning With Keras.
 
 
-# Day91: Jan 16,2019
+## Day91: Jan 16,2019
 **Today's Work** : Image Captioning With Keras Cont'd.
 
 
-# Day92: Jan 17,2019
+## Day92: Jan 17,2019
 **Today's Work** : Face Aging with Conditional Generative Adversarial Network (GAN).
 
 
-# Day93: Jan 18,2019
+## Day93: Jan 18,2019
 **Today's Work** : Face Aging with Conditional Generative Adversarial Network (GAN) | Reading.
 
 
-# Day94: Jan 19,2019
+## Day94: Jan 19,2019
 **Today's Work** : Recognizing Hand Written Digits and Characters | Reading.
 
 
-# Day95: Jan 20,2019
+## Day95: Jan 20,2019
 **Today's Work** : Recognizing Hand Written Digits and Characters | Reading Cont'd.
 
 
-# Day96: Jan 21,2019
+## Day96: Jan 21,2019
 **Today's Work** : Week 3 on 'Machine Learning By Andrew Ng' coursera.

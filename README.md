@@ -344,3 +344,8 @@
 
 ## Day96: Jan 21,2019
 **Today's Work** : Week 3 on 'Machine Learning By Andrew Ng' coursera.
+
+
+
+## Day97: Jan 22,2019
+**Today's Work** : Week 3 on 'Machine Learning By Andrew Ng' coursera. Logistic Regression Model and its Cost Function.

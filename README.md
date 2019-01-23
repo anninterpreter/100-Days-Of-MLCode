@@ -349,3 +349,7 @@
 
 ## Day97: Jan 22,2019
 **Today's Work** : Week 3 on 'Machine Learning By Andrew Ng' coursera. Logistic Regression Model and its Cost Function.
+
+
+## Day98: Jan 23,2019
+**Today's Work** : Week 3 on 'Machine Learning By Andrew Ng' coursera. Logistic Regression Model, Simplified Cost Function for Logistic Regression, Advanced Optimization Algorithms and Multiclass Classification.

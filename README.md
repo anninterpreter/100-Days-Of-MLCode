@@ -353,3 +353,7 @@
 
 ## Day98: Jan 23,2019
 **Today's Work** : Week 3 on 'Machine Learning By Andrew Ng' coursera. Logistic Regression Model, Simplified Cost Function for Logistic Regression, Advanced Optimization Algorithms and Multiclass Classification.
+
+
+## Day99: Jan 24,2019
+**Today's Work** : Week 3 on 'Machine Learning By Andrew Ng' coursera. Regularization to solve the problem of Overfitting. Learned about Regularized Logistic Regression and Regularized Linear Regression.

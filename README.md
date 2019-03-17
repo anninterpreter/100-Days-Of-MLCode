@@ -357,3 +357,7 @@
 
 ## Day99: Jan 24,2019
 **Today's Work** : Week 3 on 'Machine Learning By Andrew Ng' coursera. Regularization to solve the problem of Overfitting. Learned about Regularized Logistic Regression and Regularized Linear Regression.
+
+
+## Day100: Jan 25,2019
+**Today's Work** : Week 6 on 'Machine Learning By Andrew Ng' coursera. Evaluating a Learning Algorithm.
